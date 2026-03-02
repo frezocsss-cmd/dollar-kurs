@@ -1,4 +1,4 @@
-bu file uyga dollar kursini hisoblaydi bu yerda 2ta loyha bor birinchisi dollar kursini hisoblab beradi 
+bu file  dollar kursini hisoblaydi bu yerda 2ta loyha bor birinchisi dollar kursini hisoblab beradi 
 
 
 
