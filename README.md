@@ -1,3 +1,8 @@
+
+
+
+
+
 // alert("Korzinkaga Xush kelibsiz")
 // let tovar = prompt("Sizga qanday ichimlik kerak ?")
 // alert(`Bizning dokonimzda eng kop sotib olinadigan ichimlik ${tovar} hisoblanadi`)
